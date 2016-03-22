@@ -1,0 +1,27 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "ch.ti8m.documenthandler": {
+            "PACKAGE_NAME": "com.austin4195.TheElements"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.austin4195.TheElements"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.austin4195.TheElements"
+        },
+        "cordova-plugin-privacyscreen": {
+            "PACKAGE_NAME": "com.austin4195.TheElements"
+        },
+        "com.pushwoosh.plugins.pushwoosh": {
+            "PACKAGE_NAME": "com.austin4195.TheElements"
+        }
+    },
+    "dependent_plugins": {}
+}

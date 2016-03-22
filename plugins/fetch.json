@@ -1,0 +1,42 @@
+{
+    "cordova-plugin-file": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-file@~4.1.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "ch.ti8m.documenthandler": {
+        "source": {
+            "type": "registry",
+            "id": "polarcape-cordova-plugin-document-handler"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-privacyscreen": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-privacyscreen"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.pushwoosh.plugins.pushwoosh": {
+        "source": {
+            "type": "registry",
+            "id": "pushwoosh-cordova-plugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
